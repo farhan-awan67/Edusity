@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
-import Program from "@/components/program";
+import Program from "@/components/Program";
 import Testimonial from "@/components/Testimonial";
 import React, { useEffect } from "react";
 import Lenis from "lenis";
