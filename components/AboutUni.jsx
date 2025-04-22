@@ -4,7 +4,7 @@ import uni_img from "@/assets/about.png";
 
 const AboutUni = () => {
   return (
-    <section className="mx-auto mt-[90px] flex justify-between flex-col-reverse gap-[50px] sm:flex-row p-5">
+    <section className="mx-auto mt-[90px] flex justify-between flex-col-reverse gap-[50px] md:flex-row p-5">
       <div className="left basis-[40%] rounded-md overflow-hidden">
         <Image
           src={uni_img}

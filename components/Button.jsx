@@ -14,7 +14,7 @@ const Button = ({
   return (
     <button
       className={clsx(
-        "flex justify-center items-center rounded-full shadow-lg cursor-pointer px-4 py-2 gap-2 sm:gap-4",
+        "flex justify-center items-center rounded-full shadow-lg cursor-pointer gap-2 sm:gap-4",
         className,
         bgColor,
         textColor,

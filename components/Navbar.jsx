@@ -35,8 +35,8 @@ const Navbar = () => {
           textColor="text-black"
           text="Contact us"
           bgColor="bg-white"
-          padding="px-3 py-2 sm:px-[22px] sm:py-[14px]"
-          fontSize="text-lg"
+          padding="px-[14px] py-[9px] sm:px-[22px] sm:py-[10px]"
+          fontSize="text-base"
         />
       </div>
     </nav>
